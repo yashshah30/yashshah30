@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Yash Shah 
 
-<!--
-**yashshah30/yashshah30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE Student passionate about AI, Automation & Backend Development
 
-Here are some ideas to get you started:
+## Currently Learning
+- DSA in C++
+- FastAPI
+- AI Workflows & APIs
+- Cloud Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Python
+- C++
+- FastAPI
+- Git & GitHub
+- REST APIs
+
+## Projects
+- AI News Agent
+- Automation Workflows
+- AI-based Study Tools
+
+## Goals for 2026
+- Build impactful AI projects
+- Improve problem-solving skills
+- Become placement-ready
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/yashshah3009
